@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stickstofferzeugung | Mader - Effizient, Zuverlässig, Wirtschaftlich</title>
+    <meta name="description" content="Maßgeschneiderte Stickstoffanlagen von Mader – mit optionaler Containerlösung und flexiblen Finanzierungskonzepten. Senken Sie Ihre Betriebskosten um bis zu 30%.">
+    <link rel="stylesheet" href="https://unpkg.com/@phosphor-icons/web@2.1.1/src/bold/style.css"/>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <style>
+      /* Beispiel für CSS für Lucide Icons (falls verwendet)
+        .icon {
+            font-family: 'LucideIcons';
+            font-style: normal;
+            font-weight: 400;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+            display: inline-block;
+            line-height: 1;
+        }
+        */
+    </style>
+</head>
+<body>
+    <header class="hero">
+        <div class="container">
+            <nav>
+                <div class="logo">
+                    <img src="logo.png" alt="Mader Logo">
+                </div>
+                <div class="nav-links">
+                    <a href="#benefits">Vorteile</a>
+                    <a href="#container">Container-Lösung</a>
+                    <a href="#financing">Finanzierung</a>
+                    <a href="#applications">Anwendungen</a>
+                    <a href="#faq">FAQ</a>
+                    <a href="#contact" class="nav-cta">Kontakt</a>
+                </div>
+                <div class="hamburger">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </nav>
+            
+            <div class="hero-content">
+                <h1>Industrieller Stickstoff nach Maß: Effizient, Zuverlässig, Wirtschaftlich</h1>
+                <p>Maßgeschneiderte Stickstoffanlagen von Mader – mit optionaler Containerlösung und flexiblen Finanzierungskonzepten</p>
+                <a href="#contact" class="cta-button">Kostenlose Beratung anfordern</a>
+            </div>
+        </div>
+    </header>
+
+    <section id="benefits" class="benefits">
+        <div class="container">
+            <h2>Ihre Vorteile mit Mader-Stickstofftechnologie</h2>
+            
+            <div class="benefits-grid">
+                <div class="benefit-card">
+                    <div class="icon">
+                        <i class="ph-bold ph-coins"></i>
+                    </div>
+                    <h3>Kosteneffizienz</h3>
+                    <ul>
+                        <li>Bis zu 30% geringere Betriebskosten im Vergleich zu herkömmlichen Lösungen</li>
+                        <li>Deutlich reduzierter Energieverbrauch durch modernste Membran- oder PSA-Technologie</li>
+                        <li>Amortisation Ihrer Investition innerhalb weniger Jahre</li>
+                    </ul>
+                    <div class="benefit-image">
+                         <img src="cost-comparison.png" alt="Kostenvergleich zwischen Flaschen-/Tanklieferung und Eigenerzeugung"
+                             srcset="cost-comparison-400.png 400w, cost-comparison-800w.png 800w, cost-comparison.png 1200w"
+                             sizes="(max-width: 600px) 100vw, (max-width: 900px) 80vw, 1200px"
+                         >
+                    </div>
+                </div>
+                
+                <div class="benefit-card">
+                    <div class="icon">
+                        <i class="ph-bold ph-shield-check"></i>
+                    </div>
+                    <h3>Höchste Zuverlässigkeit</h3>
+                    <ul>
+                        <li>99,9% Verfügbarkeit dank redundanter Systeme und robuster Konstruktion</li>
+                        <li>Made in Germany – entwickelt und gefertigt nach höchsten Qualitätsstandards</li>
+                        <li>Umfassendes Service-Netzwerk für schnelle Unterstützung und minimale Ausfallzeiten</li>
+                    </ul>
+                </div>
+                
+                <div class="benefit-card">
+                    <div class="icon">
+                        <i class="ph-bold ph-leaf"></i>
+                    </div>
+                    <h3>Nachhaltige Lösung</h3>
+                    <ul>
+                        <li>Reduzierte CO₂-Emissionen durch effiziente Prozesse und Wegfall von Transportwegen</li>
+                        <li>Umweltfreundliche Materialien und Komponenten für langfristigen Einsatz</li>
+                        <li>Zukunftssichere Technologie, die mit Ihrem Unternehmen mitwächst</li>
+                    </ul>
+                </div>
+                
+                <div class="benefit-card">
+                    <div class="icon">
+                       <i class="ph-bold ph-puzzle-piece"></i>
+                    </div>
+                    <h3>Flexible Integration</h3>
+                    <ul>
+                        <li>Maßgeschneiderte Lösungen für Ihre spezifischen Anforderungen und Platzverhältnisse</li>
+                        <li>Nahtlose Integration in bestehende Produktionsprozesse</li>
+                        <li>Modulare Konzepte für einfache Erweiterbarkeit bei steigendem Bedarf</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="container" class="container-solution">
+        <div class="container">
+            <h2>Schlüsselfertige Container-Lösungen – Plug & Play für Ihre Stickstoffversorgung</h2>
+            <p class="section-intro">Unsere innovativen Container-Lösungen beinhalten alles, was Sie für eine sofortige Stickstoffversorgung benötigen – inklusive perfekt abgestimmtem Kompressor. Die komplette Anlage wird betriebsbereit geliefert und kann nach minimaler Installationszeit sofort in Betrieb genommen werden.</p>
+            
+            <div class="container-showcase">
+                <div class="container-images">
+                    <img src="container-3d.png" alt="3D-Rendering des Container-Systems">
+                    <img src="container-schema.png" alt="Schematische Darstellung der Komponenten im Container">
+                    <img src="container-photo.png" alt="Foto einer realisierten Container-Lösung">
+                </div>
+                
+                <div class="container-benefits">
+                    <h3>Vorteile der Container-Lösung:</h3>
+                    <ul>
+                        <li><i class="ph-bold ph-check-circle"></i> Komplett vorkonfiguriert und werkseitig getestet</li>
+                        <li><i class="ph-bold ph-check-circle"></i> Mit integriertem, leistungsstarkem Kompressor</li>
+                        <li><i class="ph-bold ph-check-circle"></i> Sofort einsatzbereit nach Anschluss an Strom und Druckluft</li>
+                        <li><i class="ph-bold ph-check-circle"></i> Minimaler Installationsaufwand und Platzbedarf</li>
+                        <li><i class="ph-bold ph-check-circle"></i> Mobil und flexibel einsetzbar – ideal bei Platzproblemen oder temporärem Bedarf</li>
+                        <li><i class="ph-bold ph-check-circle"></i> Wetterfest und robust für Außenaufstellung</li>
+                    </ul>
+                    <a href="#contact" class="secondary-cta">Container-Lösung anfragen</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="financing" class="financing">
+        <div class="container">
+            <h2>Flexible Finanzierungsoptionen – Ihre Stickstoffanlage ohne Kapitalbindung</h2>
+            <p class="section-intro">Wir bieten maßgeschneiderte Finanzierungskonzepte, die Ihre Liquidität schonen und Ihnen dennoch alle Vorteile modernster Stickstofftechnologie sichern. Unsere Finanzierungsexperten entwickeln gemeinsam mit Ihnen die optimale Lösung für Ihre Anforderungen.</p>
+            
+            <div class="financing-options">
+                <div class="financing-card">
+                    <div class="icon">
+                        <i class="ph-bold ph-file-contract"></i>
+                    </div>
+                    <h3>Leasing</h3>
+                    <ul>
+                        <li>Geringe monatliche Raten statt hoher Einmalinvestition</li>
+                        <li>Steuerliche Vorteile durch Absetzbarkeit der Leasingraten</li>
+                        <li>Option zum Kauf nach Laufzeitende</li>
+                        <li>Schonung Ihrer Kreditlinien</li>
+                    </ul>
+                </div>
+                
+                <div class="financing-card">
+                    <div class="icon">
+                        <i class="ph-bold ph-handshake"></i>
+                    </div>
+                    <h3>Mietkauf</h3>
+                    <ul>
+                        <li>Flexible Laufzeiten an Ihre Bedürfnisse angepasst</li>
+                        <li>Planbare Kosten über die gesamte Vertragslaufzeit</li>
+                        <li>Automatischer Eigentumsübergang nach Ende der Vertragslaufzeit</li>
+                        <li>Kombination der Vorteile von Miete und Kauf</li>
+                    </ul>
+                </div>
+                
+                <div class="financing-card">
+                    <div class="icon">
+                        <i class="ph-bold ph-gauge"></i>
+                    </div>
+                    <h3>Pay-per-Use</h3>
+                    <ul>
+                        <li>Zahlung nach tatsächlichem Verbrauch</li>
+                        <li>Keine hohen Grundgebühren</li>
+                        <li>Ideal für schwankenden oder saisonalen Bedarf</li>
+                        <li>Maximale Flexibilität ohne langfristige Bindung</li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="financing-cta">
+                <a href="#contact" class="secondary-cta">Finanzierungsberatung vereinbaren</a>
+            </div>
+        </div>
+    </section>
+
+    <section id="technical" class="technical">
+        <div class="container">
+            <h2>Technische Exzellenz für höchste Ansprüche</h2>
+            <p class="section-intro">Unsere Stickstoffanlagen werden nach höchsten Standards gefertigt und bieten technische Leistungsdaten, die überzeugen. Je nach Anwendungsbereich setzen wir auf modernste Membran- oder PSA-Technologie, um Ihren individuellen Anforderungen gerecht zu werden.</p>
+            
+            <div class="specs-container">
+                <div class="specs-item">
+                    <div class="specs-label">Reinheitsgrade:</div>
+                    <div class="specs-value">95% bis 99,999%</div>
+                </div>
+                <div class="specs-item">
+                    <div class="specs-label">Durchflussraten:</div>
+                    <div class="specs-value">1-1000 Nm³/h (individuell skalierbar)</div>
+                </div>
+                <div class="specs-item">
+                    <div class="specs-label">Druckbereiche:</div>
+                    <div class="specs-value">5-40 bar</div>
+                </div>
+                <div class="specs-item">
+                    <div class="specs-label">Energieeffizienz:</div>
+                    <div class="specs-value">optimierter Verbrauch von 0,3-0,5 kWh/Nm³</div>
+                </div>
+                <div class="specs-item">
+                    <div class="specs-label">Wartungsintervalle:</div>
+                    <div class="specs-value">>8.000 Betriebsstunden</div>
+                </div>
+            </div>
+            
+            <p class="additional-info">Alle Anlagen werden individuell nach Ihren Anforderungen dimensioniert und konfiguriert. Unsere Experten beraten Sie gerne zur optimalen Lösung für Ihren spezifischen Anwendungsfall.</p>
+        </div>
+    </section>
+
+    <section id="applications" class="applications">
+        <div class="container">
+            <h2>Vielseitige Einsatzmöglichkeiten für Ihre Branche</h2>
+            <p class="section-intro">Stickstoff ist in zahlreichen Industriebereichen unverzichtbar. Unsere Anlagen liefern zuverlässig die benötigte Reinheit und Menge für Ihre spezifischen Anforderungen.</p>
+            
+            <div class="applications-grid">
+                <div class="application-card">
+                    <div class="icon">
+                        <i class="ph-bold ph-utensils"></i>
+                    </div>
+                    <h3>Lebensmittelindustrie</h3>
+                    <p>Verpackung unter Schutzatmosphäre, Kühlung, Konservierung</p>
+                </div>
+                
+                <div class="application-card">
+                    <div class="icon">
+                        <i class="ph-bold ph-flask"></i>
+                    </div>
+                    <h3>Chemische Industrie</h3>
+                    <p>Inertisierung von Reaktoren, Schutz empfindlicher Prozesse</p>
+                </div>
+                
+                <div class="application-card">
+                    <div class="icon">
+                        <i class="ph-bold ph-chip"></i>
+                    </div>
+                    <h3>Elektronik</h3>
+                    <p>Präzisionslötprozesse, Reinraumtechnik, Komponentenschutz</p>
+                </div>
+                
+                <div class="application-card">
+                    <div class="icon">
+                        <i class="ph-bold ph-industry"></i>
+                    </div>
+                    <h3>Metallverarbeitung</h3>
+                    <p>Laserschneiden, Wärmebehandlung, Schutzgasschweißen</p>
+                </div>
+                
+                <div class="application-card">
+                    <div class="icon">
+                        <i class="ph-bold ph-pills"></i>
+                    </div>
+                    <h3>Pharmazie</h3>
+                    <p>Sterilproduktion, Verpackung, Lagerung empfindlicher Substanzen</p>
+                </div>
+                
+                <div class="application-card">
+                    <div class="icon">
+                        <i class="ph-bold ph-bolt"></i>
+                    </div>
+                    <h3>Energiesektor</h3>
+                    <p>Transformator-Kühlung, Druckprüfungen, Inertisierung</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="testimonials" class="testimonials">
+        <div class="container">
+            <h2>Vertrauen Sie auf bewährte Expertise</h2>
+            
+            <div class="client-logos">
+                <img src="client1.png" alt="Kundenlogo 1">
+                <img src="client2.png" alt="Kundenlogo 2">
+                <img src="client3.png" alt="Kundenlogo 3">
+                <img src="client4.png" alt="Kundenlogo 4">
+                <img src="client5.png" alt="Kundenlogo 5">
+            </div>
+            
+            <div class="testimonial-slider">
+                <div class="testimonial">
+                    <div class="quote">
+                        <p>"Seit der Installation unserer Mader-Stickstoffanlage konnten wir unsere Betriebskosten um 27% senken und gleichzeitig die Versorgungssicherheit deutlich erhöhen. Die Container-Lösung war innerhalb eines Tages betriebsbereit – ein echter Gamechanger für unsere Produktion."</p>
+                    </div>
+                    <div class="author">
+                        <img src="testimonial1.jpg" alt="Thomas Schmidt">
+                        <div class="author-info">
+                            <h4>Thomas Schmidt</h4>
+                            <p>Produktionsleiter, XYZ GmbH</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="testimonial">
+                    <div class="quote">
+                         <p>"Die Umstellung auf die Eigenerzeugung mit Mader-Technologie hat sich bereits nach 18 Monaten amortisiert. Besonders beeindruckend ist die Zuverlässigkeit der Anlage – seit zwei Jahren läuft sie störungsfrei und liefert konstant hochreinen Stickstoff für unsere sensiblen Prozesse."</p>
+                    </div>
+                    <div class="author">
+                        <img src="testimonial2.jpg" alt="Martina Meier">
+                        <div class="author-info">
+                            <h4>Martina Meier</h4>
+                            <p>Geschäftsführerin, ABC AG</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="faq" class="faq">
+        <div class="container">
+            <h2>Häufig gestellte Fragen</h2>
+             <p class="section-intro">Hier finden Sie Antworten auf die wichtigsten Fragen rund um unsere Stickstoffanlagen und -lösungen.</p>
+            
+            <div class="faq-accordion">
+                 <div class="faq-item">
+                    <button class="faq-question">
+                         <i class="ph-bold ph-question"></i>
+                        Was ist der Unterschied zwischen Membran- und PSA-Technologie?
+                    </button>
+                    <div class="faq-answer">
+                        <p>Die Membran-Technologie trennt Stickstoff und Sauerstoff durch semipermeable Membranen, während die PSA-Technologie (Pressure Swing Adsorption) die unterschiedliche Adsorption von Stickstoff und Sauerstoff an einem Adsorptionsmittel unter Druckwechsel nutzt.  Membrananlagen sind oft energieeffizienter bei höheren Durchflussraten und geringeren Reinheitsanforderungen, während PSA-Anlagen höhere Reinheitsgrade erreichen können.</p>
+                    </div>
+                </div>
+                <div class="faq-item">
+                    <button class="faq-question">
+                         <i class="ph-bold ph-question"></i>
+                        Wie lange dauert die Installation einer Container-Lösung?
+                    </button>
+                    <div class="faq-answer">
+                        <p>Die Installation einer Container-Lösung ist sehr schnell.  Da die Anlage komplett vorkonfiguriert und werkseitig getestet wird, ist sie nach Anschluss an Strom und Druckluft sofort betriebsbereit.  In der Regel dauert die eigentliche Installation vor Ort nur wenige Stunden bis maximal einen Tag.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-question">
+                        <i class="ph-bold ph-question"></i>
+                        Welche Reinheitsgrade sind möglich?
+                    </button>
+                    <div class="faq-answer">
+                        <p>Mit unseren Stickstoffanlagen sind Reinheitsgrade von 95% bis zu 99,999% möglich.  Der genaue Reinheitsgrad hängt von der gewählten Technologie (Membran oder PSA) und der Konfiguration der Anlage ab. Wir beraten Sie gerne, welcher Reinheitsgrad für Ihre Anwendung optimal ist.</p>
+                    </div>
+                </div>
+                <div class="faq-item">
+                    <button class="faq-question">
+                         <i class="ph-bold ph-question"></i>
+                       Wie oft müssen die Anlagen gewartet werden?
+                    </button>
+                    <div class="faq-answer">
+                        <p>Die Wartungsintervalle unserer Stickstoffanlagen sind sehr lang.  In der Regel sind Wartungen nur alle 8.000 Betriebsstunden erforderlich.  Dies reduziert Ausfallzeiten und Betriebskosten.</p>
+                    </div>
+                </div>
+                 <div class="faq-item">
+                    <button class="faq-question">
+                        <i class="ph-bold ph-question"></i>
+                        Können die Anlagen auch gemietet werden?
+                    </button>
+                    <div class="faq-answer">
+                        <p>Ja, wir bieten neben Kauf und Mietkauf auch flexible Mietmodelle für unsere Stickstoffanlagen an.  Dies ist besonders interessant für Unternehmen mit saisonalem Bedarf oder wenn Sie die Anlage nur für einen begrenzten Zeitraum benötigen.  Auch Pay-per-Use-Modelle sind möglich.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact" class="contact">
+        <div class="container">
+            <h2>Kontaktieren Sie uns für Ihre individuelle Stickstofflösung</h2>
+            <p class="section-intro">Unsere Experten stehen Ihnen gerne zur Verfügung, um Ihre Fragen zu beantworten und Ihnen bei der Auswahl der optimalen Stickstoffanlage für Ihre Anforderungen zu helfen.</p>
+            
+            <div class="contact-form">
+                <form action="#" method="POST">
+                    <div class="form-group">
+                        <label for="name">Name:</label>
+                        <input type="text" id="name" name="name" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="email">E-Mail:</label>
+                        <input type="email" id="email" name="email" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="phone">Telefon:</label>
+                        <input type="tel" id="phone" name="phone">
+                    </div>
+                    <div class="form-group">
+                        <label for="message">Nachricht:</label>
+                        <textarea id="message" name="message" rows="4" required></textarea>
+                    </div>
+                    <div class="form-group">
+                        <input type="submit" value="Anfrage senden" class="submit-button">
+                    </div>
+                </form>
+            </div>
+            
+            <div class="contact-info">
+                <h3>Kontaktinformationen</h3>
+                <p>Mader GmbH<br>
+                   Musterstraße 123<br>
+                   12345 Musterstadt<br>
+                   Telefon: +49 123 4567890<br>
+                    E-Mail: info@mader.de
+                </p>
+                 <div class="social-icons">
+                    <a href="#" title="Facebook"><i class="ph-bold ph-facebook"></i></a>
+<a href="#" title="LinkedIn"><i class="ph-bold ph-linkedin"></i></a>
+                    <a href="#" title="YouTube"><i class="ph-bold ph-youtube"></i></a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>© 2024 Mader GmbH | <a href="#">Impressum</a> | <a href="#">Datenschutz</a> | <a href="#">AGB</a></p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
